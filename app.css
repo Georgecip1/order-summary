@@ -151,7 +151,7 @@ body {
 }
 
 .upper {
-  background-image: url("/images/illustration-hero.svg");
+  background-image: url("./images/illustration-hero.svg");
   background-size: cover;
   min-height: 35%;
   border-radius: 25px 25px 0 0;
